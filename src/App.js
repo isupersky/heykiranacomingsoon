@@ -12,7 +12,7 @@ function App() {
           Coming Soon with your nearest Kirana Stores.
         </p>
         <Button variant="outlined" color="primary">
-          aakash
+           Shivani is the best
         </Button>  
     </header>
     </div>
