@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heykiranacomingsoon/static/css/main.9e236d1b.chunk.css",
+    "main.js": "/heykiranacomingsoon/static/js/main.24c3a47a.chunk.js",
+    "main.js.map": "/heykiranacomingsoon/static/js/main.24c3a47a.chunk.js.map",
+    "runtime-main.js": "/heykiranacomingsoon/static/js/runtime-main.794809de.js",
+    "runtime-main.js.map": "/heykiranacomingsoon/static/js/runtime-main.794809de.js.map",
+    "static/js/2.2d4c8c6a.chunk.js": "/heykiranacomingsoon/static/js/2.2d4c8c6a.chunk.js",
+    "static/js/2.2d4c8c6a.chunk.js.map": "/heykiranacomingsoon/static/js/2.2d4c8c6a.chunk.js.map",
+    "static/js/3.c2221766.chunk.js": "/heykiranacomingsoon/static/js/3.c2221766.chunk.js",
+    "static/js/3.c2221766.chunk.js.map": "/heykiranacomingsoon/static/js/3.c2221766.chunk.js.map",
+    "index.html": "/heykiranacomingsoon/index.html",
+    "static/css/main.9e236d1b.chunk.css.map": "/heykiranacomingsoon/static/css/main.9e236d1b.chunk.css.map",
+    "static/js/2.2d4c8c6a.chunk.js.LICENSE.txt": "/heykiranacomingsoon/static/js/2.2d4c8c6a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/heykiranacomingsoon/static/media/dims.fde47414.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794809de.js",
+    "static/js/2.2d4c8c6a.chunk.js",
+    "static/css/main.9e236d1b.chunk.css",
+    "static/js/main.24c3a47a.chunk.js"
+  ]
+}
