@@ -12,7 +12,7 @@ function App() {
           Coming Soon with your nearest Kirana Stores.
         </p>
         <Button variant="outlined" color="primary">
-          Thank you CDO/E
+          sahdkshdsdhskhdk
         </Button>  
     </header>
     </div>
