@@ -12,7 +12,7 @@ function App() {
           Coming Soon with your nearest Kirana Stores.
         </p>
         <Button variant="outlined" color="primary">
-          Get Added to the Wait List
+          Click to get Added to the Wait List
         </Button>  
     </header>
     </div>
