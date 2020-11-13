@@ -1,9 +1,11 @@
 import logo from './images/logo.png';
 import './App.css';
-import Button from '@material-ui/core/Button';
+import React from "react";
+import SocialFollow from "./SocialFollow";
 
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
@@ -11,9 +13,7 @@ function App() {
         <p>
           Coming Soon with your nearest Kirana Stores.
         </p>
-        <Button variant="outlined" color="primary">
-          Get Added to the Wait List
-        </Button>  
+        <SocialFollow/>
     </header>
     </div>
   );
